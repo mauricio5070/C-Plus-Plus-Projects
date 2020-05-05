@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\escritorio\progra 1\clasecoleccion\clasecoleccion\main.cpp(88): warning C4715: 'numOfDaysInAMonth': no todas las rutas de acceso de control devuelven un valor
+  CLASECOLECCION.vcxproj -> F:\Escritorio\PROGRA 1\CLASECOLECCION\x64\Debug\CLASECOLECCION.exe
+  CLASECOLECCION.vcxproj -> F:\Escritorio\PROGRA 1\CLASECOLECCION\x64\Debug\CLASECOLECCION.pdb (Partial PDB)
