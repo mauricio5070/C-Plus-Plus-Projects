@@ -1,0 +1,215 @@
+Oscar	Brenes Salas
+13	5	2018	10496	P	123
+Recargo por atraso-->524.8	Dias de atraso--> 1
+Oscar	Brenes Salas
+24	6	2018	10496	P	123
+Oscar	Brenes Salas
+24	7	2018	10496	P	123
+Oscar	Brenes Salas
+24	8	2018	10496	P	123
+Oscar	Brenes Salas
+24	9	2018	10496	P	123
+Oscar	Brenes Salas
+24	10	2018	10496	P	123
+Oscar	Brenes Salas
+24	11	2018	10496	P	123
+Oscar	Brenes Salas
+24	12	2018	10496	P	123
+Oscar	Brenes Salas
+24	1	2019	10496	P	123
+Oscar	Brenes Salas
+24	2	2019	10496	P	123
+Oscar	Brenes Salas
+24	3	2019	10496	P	123
+Oscar	Brenes Salas
+24	4	2019	10496	P	123
+Oscar	Brenes Salas
+24	5	2019	10496	P	123
+Oscar	Brenes Salas
+24	6	2019	10496	P	123
+Oscar	Brenes Salas
+24	7	2019	10496	P	123
+Oscar	Brenes Salas
+24	8	2019	10496	P	123
+Oscar	Brenes Salas
+24	9	2019	10496	P	123
+Oscar	Brenes Salas
+24	10	2019	10496	P	123
+Oscar	Brenes Salas
+24	11	2019	10496	P	123
+Oscar	Brenes Salas
+24	12	2019	10496	P	123
+Oscar	Brenes Salas
+24	1	2020	10496	P	123
+Oscar	Brenes Salas
+24	2	2020	10496	P	123
+Oscar	Brenes Salas
+24	3	2020	10496	P	123
+Oscar	Brenes Salas
+24	4	2020	10496	P	123
+Marta	Perez Campos
+Marta	Perez Campos
+Marta	Perez Campos
+18	7	2018	11553.7	P	112
+Marta	Perez Campos
+18	8	2018	11553.7	P	112
+Marta	Perez Campos
+18	9	2018	11553.7	P	112
+Marta	Perez Campos
+18	10	2018	11553.7	P	112
+Marta	Perez Campos
+18	11	2018	11553.7	P	112
+Marta	Perez Campos
+18	12	2018	11553.7	P	112
+Marta	Perez Campos
+18	1	2019	11553.7	P	112
+Marta	Perez Campos
+18	2	2019	11553.7	P	112
+Marta	Perez Campos
+18	3	2019	11553.7	P	112
+Marta	Perez Campos
+18	4	2019	11553.7	P	112
+Felipe	Mena Lopez
+22	5	2018	6935.44	P	331
+Felipe	Mena Lopez
+22	6	2018	6935.44	P	331
+Felipe	Mena Lopez
+22	7	2018	6935.44	P	331
+Felipe	Mena Lopez
+22	8	2018	6935.44	P	331
+Felipe	Mena Lopez
+22	9	2018	6935.44	P	331
+Felipe	Mena Lopez
+22	10	2018	6935.44	P	331
+Felipe	Mena Lopez
+22	11	2018	6935.44	P	331
+Felipe	Mena Lopez
+22	12	2018	6935.44	P	331
+Felipe	Mena Lopez
+22	1	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	2	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	3	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	4	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	5	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	6	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	7	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	8	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	9	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	10	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	11	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	12	2019	6935.44	P	331
+Felipe	Mena Lopez
+22	1	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	2	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	3	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	4	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	5	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	6	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	7	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	8	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	9	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	10	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	11	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	12	2020	6935.44	P	331
+Felipe	Mena Lopez
+22	1	2021	6935.44	P	331
+Felipe	Mena Lopez
+22	2	2021	6935.44	P	331
+Felipe	Mena Lopez
+22	3	2021	6935.44	P	331
+Felipe	Mena Lopez
+22	4	2021	6935.44	P	331
+Alan	Dias Monge
+28	5	2018	3942.56	P	456
+Alan	Dias Monge
+28	6	2018	3942.56	P	456
+Alan	Dias Monge
+28	7	2018	3942.56	P	456
+Alan	Dias Monge
+28	8	2018	3942.56	P	456
+Alan	Dias Monge
+28	9	2018	3942.56	P	456
+Alan	Dias Monge
+28	10	2018	3942.56	P	456
+Alan	Dias Monge
+28	11	2018	3942.56	P	456
+Alan	Dias Monge
+28	12	2018	3942.56	P	456
+Alan	Dias Monge
+28	1	2019	3942.56	P	456
+Alan	Dias Monge
+28	2	2019	3942.56	P	456
+Alan	Dias Monge
+28	3	2019	3942.56	P	456
+Alan	Dias Monge
+28	4	2019	3942.56	P	456
+Alan	Dias Monge
+28	5	2019	3942.56	P	456
+Alan	Dias Monge
+28	6	2019	3942.56	P	456
+Alan	Dias Monge
+28	7	2019	3942.56	P	456
+Alan	Dias Monge
+28	8	2019	3942.56	P	456
+Alan	Dias Monge
+28	9	2019	3942.56	P	456
+Alan	Dias Monge
+28	10	2019	3942.56	P	456
+Alan	Dias Monge
+28	11	2019	3942.56	P	456
+Alan	Dias Monge
+28	12	2019	3942.56	P	456
+Alan	Dias Monge
+28	1	2020	3942.56	P	456
+Alan	Dias Monge
+28	2	2020	3942.56	P	456
+Alan	Dias Monge
+28	3	2020	3942.56	P	456
+Alan	Dias Monge
+28	4	2020	3942.56	P	456
+Alan	Dias Monge
+28	5	2020	3942.56	P	456
+Alan	Dias Monge
+28	6	2020	3942.56	P	456
+Alan	Dias Monge
+28	7	2020	3942.56	P	456
+Alan	Dias Monge
+28	8	2020	3942.56	P	456
+Alan	Dias Monge
+28	9	2020	3942.56	P	456
+Alan	Dias Monge
+28	10	2020	3942.56	P	456
+Alan	Dias Monge
+28	11	2020	3942.56	P	456
+Alan	Dias Monge
+28	12	2020	3942.56	P	456
+Alan	Dias Monge
+28	1	2021	3942.56	P	456
+Alan	Dias Monge
+28	2	2021	3942.56	P	456
+Alan	Dias Monge
+28	3	2021	3942.56	P	456
+Alan	Dias Monge
+28	4	2021	3942.56	P	456

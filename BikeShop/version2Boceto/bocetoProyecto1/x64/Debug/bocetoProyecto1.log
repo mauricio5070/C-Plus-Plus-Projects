@@ -1,0 +1,4 @@
+﻿  Contrato.cpp
+f:\escritorio\progra 2\proyecto1\version2boceto\bocetoproyecto1\contrato.cpp(170): warning C4715: 'Contrato::recuperar': no todas las rutas de acceso de control devuelven un valor
+  bocetoProyecto1.vcxproj -> F:\Escritorio\Progra 2\Proyecto1\version2Boceto\x64\Debug\bocetoProyecto1.exe
+  bocetoProyecto1.vcxproj -> F:\Escritorio\Progra 2\Proyecto1\version2Boceto\x64\Debug\bocetoProyecto1.pdb (Partial PDB)
