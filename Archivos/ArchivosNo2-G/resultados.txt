@@ -1,0 +1,5 @@
+k = cantidad  =	100
+s = sumatoria =	52277
+m1 = menor    =	7
+m2 = mayor    =	976
+p =  promedio =	522
