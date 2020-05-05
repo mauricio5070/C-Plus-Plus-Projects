@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Lista.cpp
+f:\escritorio\ejemplo lista estudiante\project3\lista.cpp(120): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+f:\escritorio\ejemplo lista estudiante\project3\lista.cpp(123): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+f:\escritorio\ejemplo lista estudiante\project3\lista.cpp(150): warning C4715: 'Lista::eliminaInicio': no todas las rutas de acceso de control devuelven un valor
+  Project3.vcxproj -> F:\Escritorio\ejemplo lista estudiante\Debug\Project3.exe
+  Project3.vcxproj -> F:\Escritorio\ejemplo lista estudiante\Debug\Project3.pdb (Partial PDB)
