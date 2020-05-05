@@ -1,0 +1,12 @@
+﻿  Main.cpp
+  Empresa.cpp
+  ContenedorTiquetes.cpp
+  Carrera.cpp
+  Bus.cpp
+  Generando código...
+c:\users\ariel\onedrive\documentos\documentos una\2 ciclo\programacion 1\tareas y proyectos con calificacion\proyecto 1\proyecto n1\proyecto n1\bus.cpp(58): warning C4715: 'Bus::consultaAsiento': no todas las rutas de acceso de control devuelven un valor
+  Compilando...
+  Control.cpp
+  Generando código...
+  Proyecto N1.vcxproj -> C:\Users\ariel\OneDrive\Documentos\Documentos UNA\2 CICLO\Programacion 1\Tareas y proyectos CON calificacion\Proyecto 1\Proyecto N1\Debug\Proyecto N1.exe
+  Proyecto N1.vcxproj -> C:\Users\ariel\OneDrive\Documentos\Documentos UNA\2 CICLO\Programacion 1\Tareas y proyectos CON calificacion\Proyecto 1\Proyecto N1\Debug\Proyecto N1.pdb (Full PDB)

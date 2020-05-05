@@ -1,0 +1,14 @@
+﻿  Asiento.cpp
+f:\escritorio\una\progra 1\proyecto 1\proyecto n1\proyecto n1\asiento.cpp(24): error C2039: 'getLetra': no es un miembro de 'Asiento'
+  f:\escritorio\una\progra 1\proyecto 1\proyecto n1\proyecto n1\asiento.h(8): note: vea la declaración de 'Asiento'
+f:\escritorio\una\progra 1\proyecto 1\proyecto n1\proyecto n1\asiento.cpp(26): error C2065: 'letra': identificador no declarado
+  Generando código...
+  Compilando...
+  Bus.cpp
+  Generando código...
+f:\escritorio\una\progra 1\proyecto 1\proyecto n1\proyecto n1\bus.cpp(58): warning C4715: 'Bus::consultaAsiento': no todas las rutas de acceso de control devuelven un valor
+  Omitiendo... (no se detectaron cambios relevantes)
+  Main.cpp
+  Empresa.cpp
+  Control.cpp
+  Carrera.cpp
