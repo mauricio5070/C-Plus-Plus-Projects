@@ -1,0 +1,10 @@
+﻿  paciente.cpp
+f:\documentos\visual studio 2017\projects\tarea1 paciente\tarea1 paciente\paciente.cpp(13): error C2084: la función 'Paciente::Paciente(std::string,std::string,std::string,int,float,float,std::string)' ya tiene un cuerpo
+  f:\documentos\visual studio 2017\projects\tarea1 paciente\tarea1 paciente\paciente.h(37): note: vea la definición anterior de '{ctor}'
+  coleccion.cpp
+f:\documentos\visual studio 2017\projects\tarea1 paciente\tarea1 paciente\coleccion.cpp(14): error C2062: tipo 'float' inesperado
+f:\documentos\visual studio 2017\projects\tarea1 paciente\tarea1 paciente\coleccion.cpp(28): error C2065: 'alt': identificador no declarado
+f:\documentos\visual studio 2017\projects\tarea1 paciente\tarea1 paciente\coleccion.cpp(30): error C2065: 'pes': identificador no declarado
+f:\documentos\visual studio 2017\projects\tarea1 paciente\tarea1 paciente\coleccion.cpp(33): error C2065: 'alt': identificador no declarado
+f:\documentos\visual studio 2017\projects\tarea1 paciente\tarea1 paciente\coleccion.cpp(33): error C2065: 'pes': identificador no declarado
+  Generando código...
